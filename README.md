@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and making websites
 - 🌱 I’m a Student
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Insatgram](https://www.instagram.com/_imnine9_/)
+- 📫 How to reach me [Insatgram](https://www.instagram.com/_ryaan__29/)
 
 <!---
 redux-next/redux-next is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
