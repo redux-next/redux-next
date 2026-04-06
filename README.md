@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redux-next
 - 👀 I’m interested in coding and making websites
-- 🌱 I’m a Student
+- 🌱 I’m currently learning AI/ML and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Insatgram](https://www.instagram.com/_ryaan__29/)
 
