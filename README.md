@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @redux-next
-- 👀 I’m interested in coding and making websites
+- 👋 Hi, I’m Gyanam
+- 👀 I’m interested in making full stack websites and apps
 - 🌱 I’m currently learning AI/ML in Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...!!
 - 📫 How to reach me [Insatgram](https://www.instagram.com/_imnine9_/)
 
 <!---
