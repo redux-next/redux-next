@@ -1,122 +1,107 @@
-GYANAM
+Gyanam
 
-Developer · Builder · Technology Enthusiast
+FULL-STACK DEVELOPER · ANDROID DEVELOPER · AI ENTHUSIAST
 
-<p align="center">
-  <a href="https://gyanamdev.vercel.app">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-c9ef81?style=for-the-badge&logo=vercel&logoColor=171d0c" alt="Portfolio" />
-  </a>
-</p><p align="center">
-  Building digital experiences through code, creativity, and continuous learning.
-</p>---
+I build digital products, explore emerging technologies, and turn ideas into functional experiences.
 
-/ ABOUT
-
-I'm Gyanam, a developer interested in building meaningful software and exploring the possibilities of modern technology.
-
-My work revolves around full-stack web development, Android applications, and AI-powered solutions. I enjoy taking ideas from concept to implementation, understanding how systems work, and creating products that solve practical problems.
-
-Currently exploring the intersection of software development, artificial intelligence, and cybersecurity.
-
-What I work on
-
-- Full-stack web applications
-- Android and mobile development
-- AI-powered applications
-- Backend systems and database integration
-- Modern user interfaces and experiences
+"Portfolio" (https://gyanamdev.vercel.app) · "LinkedIn" (https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/) · "Instagram" (https://www.instagram.com/_ryaan__29/)
 
 ---
 
-/ SELECTED WORK
+ABOUT
 
-01 — DailyCart
+I'm Gyanam — a developer interested in the intersection of software engineering, mobile development, and artificial intelligence.
 
-Grocery Delivery Platform
+I enjoy building complete applications, working across frontend and backend systems, and experimenting with technologies that make products more useful.
 
-An online grocery shopping and delivery platform with customer ordering, product management, order tracking, and delivery workflows.
-
-"Next.js" "Firebase" "Android" "Full-Stack"
-
-"View Repository" (https://github.com/redux-next/baskit)
-
-02 — CivicSense AI
-
-AI-Powered Campus Complaint Platform
-
-A platform designed to streamline campus complaint management with AI-assisted complaint analysis and duplicate detection.
-
-"AI Integration" "Firebase" "Next.js"
-
-"Explore My GitHub" (https://github.com/redux-next)
-
-03 — AI Study Assistant
-
-AI-Powered Learning Platform
-
-An intelligent study tool that lets users interact with uploaded documents through summaries, explanations, quizzes, and flashcards.
-
-"Next.js" "OpenRouter" "Neon" "AI"
-
-"Explore My GitHub" (https://github.com/redux-next)
+- Building full-stack web applications
+- Developing Android and mobile experiences
+- Exploring AI-powered applications
+- Learning about AI security and cybersecurity
+- Continuously improving my engineering skills
 
 ---
 
-/ TECH STACK
+WHAT I BUILD
+
+01 / WEB DEVELOPMENT
+
+Modern, responsive web applications with thoughtful interfaces, backend functionality, and practical features.
+
+02 / ANDROID DEVELOPMENT
+
+Mobile applications focused on usability, functionality, and real-world experiences.
+
+03 / AI & TECHNOLOGY
+
+AI-powered tools, intelligent application workflows, and experiments with emerging technologies.
+
+---
+
+SELECTED PROJECTS
+
+DailyCart — Grocery Delivery Platform
+
+An online grocery platform with product discovery, customer ordering, order management, and delivery workflows.
+
+"Next.js" "Firebase" "Android"
+
+CivicSense AI — Intelligent Complaint Management
+
+An AI-powered campus complaint platform featuring complaint analysis and duplicate detection.
+
+"Next.js" "Firebase" "AI"
+
+AI Study Assistant — AI-Powered Learning
+
+A document-based learning application with summarization, explanations, quizzes, and flashcards.
+
+"Next.js" "OpenRouter" "Neon"
+
+Explore more: "github.com/redux-next" (https://github.com/redux-next)
+
+---
+
+TECHNOLOGIES
 
 Languages
 
-"JavaScript" "TypeScript" "Python" "HTML" "CSS"
+JavaScript · TypeScript · Python · HTML · CSS
 
 Frontend
 
-"React" "Next.js" "Tailwind CSS" "Framer Motion"
+React · Next.js · Tailwind CSS · Framer Motion
 
 Backend & Database
 
-"Node.js" "Firebase" "Neon"
+Node.js · Firebase · Neon
 
-Development Environment
+Tools
 
-"Git" "GitHub" "VS Code" "Android Studio"
-
----
-
-/ CURRENTLY EXPLORING
-
-Area| Focus
-Web Development| Scalable full-stack applications
-Mobile Development| Android application development
-Artificial Intelligence| AI-powered products and ML
-Cybersecurity| AI Security and defensive security
-Engineering| Better architecture and development practices
+Git · GitHub · VS Code · Android Studio
 
 ---
 
-/ BEYOND THE CODE
+CURRENTLY EXPLORING
 
-I believe good development comes from curiosity, experimentation, and consistency.
-
-I enjoy learning new technologies, exploring creative ideas, and turning what I learn into working projects.
+- Artificial Intelligence & Machine Learning
+- Android application development
+- AI Security & Cybersecurity
+- Scalable software architecture
 
 ---
 
-/ FIND ME ONLINE
+LET'S CONNECT
 
-<p align="left">
-  <a href="https://gyanamdev.vercel.app">PORTFOLIO ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/redux-next">GITHUB ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/">LINKEDIN ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.instagram.com/_ryaan__29/">INSTAGRAM ↗</a>
-</p>---
+Interested in technology, development, and building meaningful things.
+
+- Portfolio: https://gyanamdev.vercel.app
+- GitHub: https://github.com/redux-next
+- LinkedIn: https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/
+- Instagram: https://www.instagram.com/_ryaan__29/
+
+---
 
 <p align="center">
-  <sub>DESIGNED BY CURIOSITY. BUILT WITH CODE.</sub>
-</p><p align="center">
-  <a href="https://gyanamdev.vercel.app">
-    <img src="https://img.shields.io/badge/gyanamdev.vercel.app-c9ef81?style=flat-square&logo=googlechrome&logoColor=171d0c" alt="Personal Website" />
-  </a>
+  <sub>BUILDING · LEARNING · EVOLVING</sub>
 </p>
