@@ -1,118 +1,122 @@
-Hey, I'm Gyanam 👋
+GYANAM
 
-Full-Stack Developer · Android Developer · AI Enthusiast
+Developer · Builder · Technology Enthusiast
 
-I’m a developer passionate about building practical digital products, modern web applications, and Android experiences. I enjoy exploring emerging technologies, solving real-world problems through code, and continuously improving my development skills.
-
-<p align="left">
+<p align="center">
   <a href="https://gyanamdev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-c9ef81?style=for-the-badge&logo=vercel&logoColor=171d0c" alt="Visit Portfolio" />
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-c9ef81?style=for-the-badge&logo=vercel&logoColor=171d0c" alt="Portfolio" />
   </a>
-  <a href="https://github.com/redux-next">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+</p><p align="center">
+  Building digital experiences through code, creativity, and continuous learning.
 </p>---
 
-👨‍💻 About Me
+/ ABOUT
 
-- 💻 Focused on Full-Stack Web Development
-- 📱 Exploring Android & Mobile App Development
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🔐 Exploring AI Security and Cybersecurity
-- 🚀 Building applications that turn ideas into useful products
-- 📚 Always learning, experimenting, and improving
+I'm Gyanam, a developer interested in building meaningful software and exploring the possibilities of modern technology.
 
----
+My work revolves around full-stack web development, Android applications, and AI-powered solutions. I enjoy taking ideas from concept to implementation, understanding how systems work, and creating products that solve practical problems.
 
-🛠️ Technologies & Tools
+Currently exploring the intersection of software development, artificial intelligence, and cybersecurity.
 
-Programming Languages
+What I work on
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
-</p>Android & Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>---
-
-🚀 Featured Projects
-
-🛒 "DailyCart" (https://github.com/redux-next/baskit)
-
-A grocery delivery platform built to make everyday grocery shopping more convenient through an online ordering experience.
-
-Focus: Next.js · Firebase · Android Development · Full-Stack Development
-
-🏛️ "CivicSense AI" (https://github.com/redux-next)
-
-An AI-powered campus complaint management platform designed to analyze complaints and identify duplicate reports.
-
-Focus: AI Integration · Full-Stack Development · Firebase
-
-📚 "AI Study Assistant" (https://github.com/redux-next/my-portfolio)
-
-An AI-powered learning platform that allows users to interact with uploaded study documents through summarization, explanations, quizzes, and flashcards.
-
-Focus: Next.js · AI Integration · Neon · OpenRouter
-
-«Explore my GitHub repositories for more projects and experiments.»
+- Full-stack web applications
+- Android and mobile development
+- AI-powered applications
+- Backend systems and database integration
+- Modern user interfaces and experiences
 
 ---
 
-🎯 Areas of Interest
+/ SELECTED WORK
 
-- Full-Stack Web Development
-- Android & Mobile App Development
-- Artificial Intelligence & Machine Learning
-- AI Security & Cybersecurity
-- Modern Software Engineering
-- Emerging Technologies
+01 — DailyCart
+
+Grocery Delivery Platform
+
+An online grocery shopping and delivery platform with customer ordering, product management, order tracking, and delivery workflows.
+
+"Next.js" "Firebase" "Android" "Full-Stack"
+
+"View Repository" (https://github.com/redux-next/baskit)
+
+02 — CivicSense AI
+
+AI-Powered Campus Complaint Platform
+
+A platform designed to streamline campus complaint management with AI-assisted complaint analysis and duplicate detection.
+
+"AI Integration" "Firebase" "Next.js"
+
+"Explore My GitHub" (https://github.com/redux-next)
+
+03 — AI Study Assistant
+
+AI-Powered Learning Platform
+
+An intelligent study tool that lets users interact with uploaded documents through summaries, explanations, quizzes, and flashcards.
+
+"Next.js" "OpenRouter" "Neon" "AI"
+
+"Explore My GitHub" (https://github.com/redux-next)
 
 ---
 
-🌐 Let's Connect
+/ TECH STACK
+
+Languages
+
+"JavaScript" "TypeScript" "Python" "HTML" "CSS"
+
+Frontend
+
+"React" "Next.js" "Tailwind CSS" "Framer Motion"
+
+Backend & Database
+
+"Node.js" "Firebase" "Neon"
+
+Development Environment
+
+"Git" "GitHub" "VS Code" "Android Studio"
+
+---
+
+/ CURRENTLY EXPLORING
+
+Area| Focus
+Web Development| Scalable full-stack applications
+Mobile Development| Android application development
+Artificial Intelligence| AI-powered products and ML
+Cybersecurity| AI Security and defensive security
+Engineering| Better architecture and development practices
+
+---
+
+/ BEYOND THE CODE
+
+I believe good development comes from curiosity, experimentation, and consistency.
+
+I enjoy learning new technologies, exploring creative ideas, and turning what I learn into working projects.
+
+---
+
+/ FIND ME ONLINE
 
 <p align="left">
-  <a href="https://gyanamdev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-c9ef81?style=for-the-badge&logo=vercel&logoColor=171d0c" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/redux-next">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_ryaan__29/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://gyanamdev.vercel.app">PORTFOLIO ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/redux-next">GITHUB ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/">LINKEDIN ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.instagram.com/_ryaan__29/">INSTAGRAM ↗</a>
 </p>---
 
 <p align="center">
-  <i>"Building today. Learning every day. Creating for tomorrow."</i>
+  <sub>DESIGNED BY CURIOSITY. BUILT WITH CODE.</sub>
 </p><p align="center">
-  <a href="https://gyanamdev.vercel.app">Explore my work →</a>
+  <a href="https://gyanamdev.vercel.app">
+    <img src="https://img.shields.io/badge/gyanamdev.vercel.app-c9ef81?style=flat-square&logo=googlechrome&logoColor=171d0c" alt="Personal Website" />
+  </a>
 </p>
