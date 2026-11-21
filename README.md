@@ -1,16 +1,26 @@
-Gyanam
+# Gyanam
 
-FULL-STACK DEVELOPER · ANDROID DEVELOPER · AI ENTHUSIAST
+### Full-Stack Developer · Android Developer · AI Enthusiast
 
-I build digital products, explore emerging technologies, and turn ideas into functional experiences.
+Building digital products, exploring emerging technologies, and turning ideas into functional experiences.
 
-"Portfolio" (https://gyanamdev.vercel.app) · "LinkedIn" (https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/) · "Instagram" (https://www.instagram.com/_ryaan__29/)
+<p align="left">
+  <a href="https://gyanamdev.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-c9ef81?style=for-the-badge&logo=vercel&logoColor=171d0c" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/redux-next">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-ABOUT
+## About Me
 
-I'm Gyanam — a developer interested in the intersection of software engineering, mobile development, and artificial intelligence.
+I'm Gyanam, a developer interested in the intersection of software engineering, mobile development, and artificial intelligence.
 
 I enjoy building complete applications, working across frontend and backend systems, and experimenting with technologies that make products more useful.
 
@@ -22,86 +32,98 @@ I enjoy building complete applications, working across frontend and backend syst
 
 ---
 
-WHAT I BUILD
+## What I Build
 
-01 / WEB DEVELOPMENT
-
-Modern, responsive web applications with thoughtful interfaces, backend functionality, and practical features.
-
-02 / ANDROID DEVELOPMENT
-
-Mobile applications focused on usability, functionality, and real-world experiences.
-
-03 / AI & TECHNOLOGY
-
-AI-powered tools, intelligent application workflows, and experiments with emerging technologies.
+| Area | Focus |
+|---|---|
+| Web Development | Modern, responsive, full-stack applications |
+| Android Development | Functional and user-friendly mobile experiences |
+| Artificial Intelligence | AI-powered tools and intelligent workflows |
+| Software Engineering | Backend systems, databases, and application architecture |
 
 ---
 
-SELECTED PROJECTS
+## Featured Projects
 
-DailyCart — Grocery Delivery Platform
+### 01. DailyCart — Grocery Delivery Platform
 
 An online grocery platform with product discovery, customer ordering, order management, and delivery workflows.
 
-"Next.js" "Firebase" "Android"
+**Technologies:** Next.js · Firebase · Android
 
-CivicSense AI — Intelligent Complaint Management
+[View Repository](https://github.com/redux-next/baskit)
+
+### 02. CivicSense AI — Intelligent Complaint Management
 
 An AI-powered campus complaint platform featuring complaint analysis and duplicate detection.
 
-"Next.js" "Firebase" "AI"
+**Technologies:** Next.js · Firebase · AI Integration
 
-AI Study Assistant — AI-Powered Learning
+[Explore GitHub](https://github.com/redux-next)
+
+### 03. AI Study Assistant — AI-Powered Learning
 
 A document-based learning application with summarization, explanations, quizzes, and flashcards.
 
-"Next.js" "OpenRouter" "Neon"
+**Technologies:** Next.js · OpenRouter · Neon
 
-Explore more: "github.com/redux-next" (https://github.com/redux-next)
-
----
-
-TECHNOLOGIES
-
-Languages
-
-JavaScript · TypeScript · Python · HTML · CSS
-
-Frontend
-
-React · Next.js · Tailwind CSS · Framer Motion
-
-Backend & Database
-
-Node.js · Firebase · Neon
-
-Tools
-
-Git · GitHub · VS Code · Android Studio
+[Explore GitHub](https://github.com/redux-next)
 
 ---
 
-CURRENTLY EXPLORING
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+---
+
+## Currently Exploring
 
 - Artificial Intelligence & Machine Learning
 - Android application development
 - AI Security & Cybersecurity
 - Scalable software architecture
+- Modern development technologies
 
 ---
 
-LET'S CONNECT
+## Connect With Me
 
-Interested in technology, development, and building meaningful things.
-
-- Portfolio: https://gyanamdev.vercel.app
-- GitHub: https://github.com/redux-next
-- LinkedIn: https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/
-- Instagram: https://www.instagram.com/_ryaan__29/
+<p align="left">
+  <a href="https://gyanamdev.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/redux-next">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/gyanam-gogoi-0b9ab720a/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/_ryaan__29/">Instagram</a>
+</p>
 
 ---
 
 <p align="center">
-  <sub>BUILDING · LEARNING · EVOLVING</sub>
+  <i>Building. Learning. Evolving.</i>
 </p>
