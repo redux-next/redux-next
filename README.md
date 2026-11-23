@@ -1,6 +1,6 @@
 # Gyanam
 
-### Full-Stack Developer · Android Developer · AI Enthusiast
+### Full-Stack Developer · Android Developer · AI/ML Enthusiast
 
 Building digital products, exploring emerging technologies, and turning ideas into functional experiences.
 
