@@ -59,7 +59,7 @@ An AI-powered campus complaint platform featuring complaint analysis and duplica
 
 **Technologies:** Next.js · Firebase · AI Integration
 
-[Explore GitHub](https://github.com/redux-next)
+[Explore GitHub](https://github.com/redux-next/civicsense-ai)
 
 ### 03. AI Study Assistant — AI-Powered Learning
 
@@ -67,7 +67,7 @@ A document-based learning application with summarization, explanations, quizzes,
 
 **Technologies:** Next.js · OpenRouter · Neon
 
-[Explore GitHub](https://github.com/redux-next)
+[Explore GitHub](https://github.com/redux-next/ai-study-assistant)
 
 ---
 
