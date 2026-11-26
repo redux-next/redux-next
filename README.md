@@ -1,4 +1,4 @@
-# Gyanam Gogoi
+# GYANAM
 
 ### Full-Stack Developer · Android Developer · AI/ML Enthusiast
 
