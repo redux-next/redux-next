@@ -1,8 +1,10 @@
-# Gyanam
+# Gyanam Gogoi
 
 ### Full-Stack Developer · Android Developer · AI/ML Enthusiast
 
-Building digital products, exploring emerging technologies, and turning ideas into functional experiences.
+I build digital products that solve real problems — from full-stack web applications and Android experiences to AI-powered tools.
+
+Focused on writing better code, understanding systems deeply, and turning ideas into products.
 
 <p align="left">
   <a href="https://gyanamdev.vercel.app">
@@ -18,56 +20,48 @@ Building digital products, exploring emerging technologies, and turning ideas in
 
 ---
 
-## About Me
+## About
 
-I'm Gyanam, a developer interested in the intersection of software engineering, mobile development, and artificial intelligence.
+I'm Gyanam, a developer passionate about software engineering, mobile technologies, and artificial intelligence.
 
-I enjoy building complete applications, working across frontend and backend systems, and experimenting with technologies that make products more useful.
+I enjoy taking ideas from concept to implementation, building across the entire development stack, and exploring how emerging technologies can create better digital experiences.
 
-- Building full-stack web applications
-- Developing Android and mobile experiences
-- Exploring AI-powered applications
+- Developing full-stack web applications
+- Building Android applications and mobile experiences
+- Exploring AI-powered products and intelligent systems
 - Learning about AI security and cybersecurity
-- Continuously improving my engineering skills
+- Improving software architecture and engineering practices
 
 ---
 
-## What I Build
+## Selected Projects
 
-| Area | Focus |
-|---|---|
-| Web Development | Modern, responsive, full-stack applications |
-| Android Development | Functional and user-friendly mobile experiences |
-| Artificial Intelligence | AI-powered tools and intelligent workflows |
-| Software Engineering | Backend systems, databases, and application architecture |
+### 01 / DailyCart
+**Grocery Delivery & Management Platform**
 
----
+A grocery delivery ecosystem designed to simplify online shopping through customer ordering, product discovery, order management, and delivery workflows.
 
-## Featured Projects
+`Next.js` `Firebase` `Android` `JavaScript`
 
-### 01. DailyCart — Grocery Delivery Platform
+[Customer Platform](https://github.com/redux-next/baskit) · [GitHub](https://github.com/redux-next)
 
-An online grocery platform with product discovery, customer ordering, order management, and delivery workflows.
+### 02 / CivicSense AI
+**Intelligent Complaint Management**
 
-**Technologies:** Next.js · Firebase · Android
+An AI-powered complaint management platform focused on structured complaint handling, intelligent analysis, and duplicate complaint detection.
 
-[View Repository](https://github.com/redux-next/baskit)
+`Next.js` `Firebase` `AI Integration`
 
-### 02. CivicSense AI — Intelligent Complaint Management
+[Explore Repository](https://github.com/redux-next/civicsense-ai)
 
-An AI-powered campus complaint platform featuring complaint analysis and duplicate detection.
+### 03 / AI Study Assistant
+**AI-Powered Learning Platform**
 
-**Technologies:** Next.js · Firebase · AI Integration
+A document-based learning assistant designed to make studying more interactive through summaries, explanations, quizzes, and flashcards.
 
-[Explore GitHub](https://github.com/redux-next/civicsense-ai)
+`Next.js` `OpenRouter` `Neon`
 
-### 03. AI Study Assistant — AI-Powered Learning
-
-A document-based learning application with summarization, explanations, quizzes, and flashcards.
-
-**Technologies:** Next.js · OpenRouter · Neon
-
-[Explore GitHub](https://github.com/redux-next/ai-study-assistant)
+[Explore Repository](https://github.com/redux-next/ai-study-assistant)
 
 ---
 
@@ -81,7 +75,7 @@ A document-based learning application with summarization, explanations, quizzes,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frontend**
+**Frontend & UI**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -93,6 +87,11 @@ A document-based learning application with summarization, explanations, quizzes,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+
+**Mobile Development**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Tools & Platforms**
 
@@ -106,14 +105,23 @@ A document-based learning application with summarization, explanations, quizzes,
 ## Currently Exploring
 
 - Artificial Intelligence & Machine Learning
-- Android application development
 - AI Security & Cybersecurity
-- Scalable software architecture
-- Modern development technologies
+- Android Engineering
+- Scalable Backend Architecture
+- System Design & Software Engineering
 
 ---
 
-## Connect With Me
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redux-next&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9ef81&icon_color=c9ef81&text_color=f0f1ec" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redux-next&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9ef81&text_color=f0f1ec" height="165" alt="Top Languages" />
+</p>
+
+---
+
+## Let's Connect
 
 <p align="left">
   <a href="https://gyanamdev.vercel.app">Portfolio</a> ·
@@ -125,5 +133,5 @@ A document-based learning application with summarization, explanations, quizzes,
 ---
 
 <p align="center">
-  <i>Building. Learning. Evolving.</i>
+  <i>Building with purpose. Learning without limits. Evolving through code.</i>
 </p>
